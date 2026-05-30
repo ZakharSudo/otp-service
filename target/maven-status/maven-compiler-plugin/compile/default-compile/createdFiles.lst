@@ -1,0 +1,11 @@
+com\otp\controller\SimpleController.class
+com\otp\model\OtpConfig.class
+com\otp\controller\SimpleController$OtpData.class
+com\otp\model\User.class
+com\otp\model\OtpCode.class
+com\otp\service\FileNotificationService.class
+com\otp\service\TelegramNotificationService.class
+com\otp\service\SmsNotificationService.class
+com\otp\service\EmailNotificationService.class
+com\otp\OtpApplication.class
+com\otp\service\EmailNotificationService$1.class
